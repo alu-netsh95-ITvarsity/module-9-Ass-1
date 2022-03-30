@@ -1,0 +1,23 @@
+body{
+    background-color:aqua;
+    font-family: "Railway", sans-serif;
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+}
+
+p{
+    color: #ffffff;
+    font-size: 5vw;
+}
+
+#clock{
+    width: 100%;
+    text-align: center;
+}
+
+#progressBarContainer{
+    transform: rotate(180deg);
+}
